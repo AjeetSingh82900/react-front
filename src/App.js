@@ -1,12 +1,12 @@
 
 import './App.css';
-import Email from './components/Email';
+import Checkbox from './components/Checkbox';
 
 function App() {
-  return <center className='Email' >
-  <h1>Email</h1>
-  <Email></Email>
-    
+  return <center className='checkbox' >
+  <h1>Checkbox</h1>
+  
+    <Checkbox></Checkbox>
   </center>
    
     
