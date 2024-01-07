@@ -1,11 +1,11 @@
 
 import './App.css';
-import Email from './components/Email';
+import Footer from './components/Footer';
 
 function App() {
-  return <center className='Email' >
-  <h1>Email</h1>
-  <Email></Email>
+  return <center  >
+  <h1>Footer</h1>
+<Footer></Footer>
     
   </center>
    
