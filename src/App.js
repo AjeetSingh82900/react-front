@@ -1,11 +1,11 @@
 
 import './App.css';
-import Email from './components/Email';
+import Mobile from './components/Mobile';
 
 function App() {
   return <center className='Email' >
-  <h1>Email</h1>
-  <Email></Email>
+  <h1>Mobile Number</h1>
+ <Mobile></Mobile>
     
   </center>
    
