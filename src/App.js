@@ -1,11 +1,12 @@
 
 import './App.css';
-import Email from './components/Email';
+import Radio from './components/Radio';
 
 function App() {
-  return <center className='Email' >
-  <h1>Email</h1>
-  <Email></Email>
+  return <center className='Radio' >
+  <h1>Radio</h1>
+  <Radio></Radio>
+  
     
   </center>
    
