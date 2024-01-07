@@ -1,11 +1,11 @@
 
 import './App.css';
-import Email from './components/Email';
+import DateTime1 from './components/DateTime';
 
 function App() {
-  return <center className='Email' >
-  <h1>Email</h1>
-  <Email></Email>
+  return <center >
+  <h1>DateTime</h1>
+ <DateTime1></DateTime1>
     
   </center>
    
