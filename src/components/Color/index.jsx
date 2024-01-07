@@ -1,7 +1,6 @@
 export default function Color(){
   return <div>
-   
-    
+  
      <select>
       <option>green</option>
       <option>Red</option>
