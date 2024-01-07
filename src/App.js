@@ -1,10 +1,14 @@
 
 import './App.css';
+import Color from './components/Color';
 
 function App() {
-  return <div>
-    clock
-  </div>
+  return <center className='Color' >
+  <h1>Color</h1>
+<Color></Color>
+    
+  </center>
+   
     
 }
 
