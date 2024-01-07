@@ -1,11 +1,11 @@
 
 import './App.css';
-import Email from './components/Email';
+import Navbar from './components/Navbar';
 
 function App() {
-  return <center className='Email' >
-  <h1>Email</h1>
-  <Email></Email>
+  return <center  >
+  <h1>Navbar</h1>
+  <Navbar></Navbar>
     
   </center>
    
